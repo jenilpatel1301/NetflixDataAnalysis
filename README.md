@@ -33,5 +33,6 @@ The code in this repository performs several analyses on the Netflix dataset. He
 To run the code, simply execute the code cells in a Python environment or run the entire script.
 
 ## Acknowledgments
+
 The Netflix dataset used in this analysis is for educational purposes and was originally obtained from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows).
  
